@@ -1,0 +1,92 @@
+/*Xander King, SCE383 Section D, hw4*/
+.div1{
+border-style: dashed;
+border-width: 10px;
+border-color: blue;
+width: 50%;
+margin: auto;
+}
+
+.centeredList{
+text-align: center;
+color: blue;
+}
+
+.div1title{
+color: red;
+text-decoration-line: underline;
+}
+
+.favorites{
+text-align: center;
+font-style: italic;
+}
+
+.div2{
+border-style: solid;
+border-width: 10px;
+border-color: DarkGreen Green Green DarkGreen;
+border-radius: 10px;
+width: 50%;
+float: right;
+}
+
+.centered{
+text-align: center;
+}
+
+.div3{
+border-style: double;
+border-color: red;
+border-radius: 0px 5px 0px 5px;
+border-width: 5px;
+width: 30%;
+float: left;
+
+}
+
+.div2image{
+width: 50%;
+display: block;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+.div2title{
+text-decoration-line: underline;
+color: green;
+}
+
+.div3title{
+text-decoration-line: overline;
+color: blue;
+text-align: center;
+}
+
+.mytravels{
+text-align: center;
+font-size: 60px;
+}
+
+.mapimage{
+width: 33%;
+height: 200px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.div3image{
+width: 33%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+.div4{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+text-decoration-line: underline;
+}
+
